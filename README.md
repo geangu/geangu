@@ -1,16 +1,17 @@
-## Hi there 👋
+## Andres Gutierrez
 
-<!--
-**geangu/geangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer at Mercadolibre living in Montevideo, Uruguay. I am a fan of programming, design, and web development. I’m also interested in video games and volunteering.
 
-Here are some ideas to get you started:
+You can contact me [geangu@gmail.com](geangu@gmail.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and technologies
+
+* **Programming languajes:** Go, Python, JavaScript, Java
+* **Frameworks:** Gin, Fiber, Django, React, Spring Boot
+* **Tools:** Git, GitHub, Docker
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/geangu/)
+* [GitHub](https://github.com/geangu)
+* [Twitter](https://twitter.com/geangu)
